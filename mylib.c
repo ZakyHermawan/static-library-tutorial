@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int tulis_satu_dimensi();
-
 int tulis_satu_dimensi() {
-
-
+  
   int *p;
 
   p = (int *) calloc(10, sizeof(int));
