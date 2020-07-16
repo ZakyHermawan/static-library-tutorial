@@ -46,6 +46,6 @@ Tutorial static _library_
 
     ```
     $ ./<namaprogram>
-  ```
-
+    ```
+  
 referensi: https://medium.com/@eightlimbed/how-to-create-and-use-a-c-static-library-eec33d502aeb
